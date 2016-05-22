@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Favorite Scripture</string>
+    <string name="greeting">Book name</string>
+    <string name="button_tap">Share</string>
+    <string name="book_name">Book name</string>
+    <string name="chapter">Chapter</string>
+    <string name="verse">Verse</string>
+    <string name="title_activity_display_scripture">Your Favorite Scripture</string>
+</resources>
